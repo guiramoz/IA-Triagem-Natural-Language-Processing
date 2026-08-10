@@ -1,4 +1,4 @@
-import streamlit as st 
-import joblib
-import spacy
-import pandas as pd
+streamlit as st 
+joblib
+spacy
+pandas as pd
