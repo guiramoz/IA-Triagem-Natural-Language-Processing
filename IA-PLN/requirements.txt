@@ -1,4 +1,5 @@
-streamlit 
+streamlit
 joblib
 spacy
-pandas 
+scikit-learn
+numpy
