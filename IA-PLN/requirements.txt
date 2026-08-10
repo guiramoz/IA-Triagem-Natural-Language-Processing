@@ -1,4 +1,4 @@
-streamlit as st 
+streamlit 
 joblib
 spacy
-pandas as pd
+pandas 
