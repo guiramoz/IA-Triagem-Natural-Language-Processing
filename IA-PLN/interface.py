@@ -68,7 +68,7 @@ def analisar_chamado(texto_usuario):
 #-----interface gráfica------
 st.title("Triagem de suporte") #titulo da página
 st.markdown("Nesse projeto foi criado uma IA de suporte ao time de TI que faz a triagem de acordo com o seu problema, podendo ser Infraestrutura, Software, Hardware e Acesso.") 
-st.markdown("Descreva o seu problema em poucas palavras e um por vez.") # descrição
+st.markdown("Descreva o seu problema em poucas palavras e um por vez, caso for citar algum app escreva corretamente respeirando as letras Maiúsculas de seu nome (ex: Vs Code).") # descrição
 
 #criando o chat
 if "messages" not in st.session_state:
